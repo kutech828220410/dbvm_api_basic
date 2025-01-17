@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Source\\Repos\\DBVM_KMUH_API\\DB2VM_API.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\dbvm_api_basic\\DB2VM_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Source\\Repos\\DBVM_KMUH_API\\DB2VM_API.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\dbvm_api_basic\\DB2VM_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\DBVM_KMUH_API\\DB2VM_API.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\dbvm_api_basic\\DB2VM_API.csproj",
         "projectName": "DB2VM_API",
-        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\DBVM_KMUH_API\\DB2VM_API.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\dbvm_api_basic\\DB2VM_API.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\DBVM_KMUH_API\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\dbvm_api_basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,14 @@
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
               "version": "[3.21.90, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
